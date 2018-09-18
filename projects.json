@@ -1,0 +1,36 @@
+{
+  "projects": [
+    { "id": 1, "songName": "r6 Raven", "owner": "Daniel Way",
+      "description": "
+      This is the main project I'm working on right now. It's tricky getting the drums and guitars to sync in Logic. I really wish I had bandmates to record it with, but as the long as the vibe's there, that's what's important.
+      One of the big problems with the initial deliverable that went to Noah was that the mix on the drums and guitar lost the essence of the song's driving power. I think there was too much compression on the drums. Will keep working at it, and upload the CCRMA session version shortly."
+      ,
+      "comments": [
+        { "id": 101, "comment": "The bass is too quiet, you can't hear the great riff in the chorus very much", "timestamp": "7/4/76"  },
+        { "id": 102, "comment": "It still has some timing issues that need to be addressed", "timestamp": "7/4/76" }
+      ]
+    },
+    { "id": 2, "songName": "xS 750", "owner": "Daniel Way",
+      "description": "
+      This one has quickly become my favorite, mostly because it's just so fucking fun to play on every instrument. Definitely a tailgater, but it does need arranging (this gave me a bit of disappointment to read out loud, how can we nudge criticisms like this to be more constructive in the real version?). Once it's all arranged and put together, this is gonna be the one (along with the rest)."
+      ,
+      "comments": []
+    },
+    { "id": 3, "songName": "cBR 1000", "owner": "Daniel Way",
+      "description": "
+      This one's pretty much straight fucking thrash metal, which is something we all need in our lives right now. I imagine this one being about either British Imperialism, or the 2nd invasion of Fallujah. I picture Marines kicking down doors to this shit."
+      ,
+      "comments": []
+    },
+    { "id": 4, "songName": "r75", "owner": "Daniel Way",
+      "description": "
+      The least developed of the four, but a very strong light/dark chord structure that can really say a lot about your music's versatility (this made me feel good to read, again, how to make this a constructive dialogue when given either positive or negative feedback)."
+      ,
+      "comments": [
+        { "id": 103, "comment": "This one has a lot of potential", "timestamp": "7/4/76" },
+        { "id": 104, "comment": "Definitely don't make the drums overpowering", "timestamp": "7/4/76" },
+        { "id": 105, "comment": "It reminds me of driving through the wheat fields when the sun was setting, really serene, yet a little dark. A welcome change I guess", "timestamp": "7/4/76" }
+      ]
+    }
+  ]
+}
